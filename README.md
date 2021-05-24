@@ -1,2 +1,2 @@
 # MicoTracker
-https://kouzeru.github.io/Micotracker/
+https://kouzeru.github.io/MicoTracker/
